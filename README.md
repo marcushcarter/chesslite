@@ -1,1 +1,3 @@
 # chesslite
+
+chess roguelike where oyu kind of have a deck of chess peices that can be upgraded and each "floor" of the game the pieces your opponent have get more and more, and can be special pieces. Once you get checkmated, your run ends and then you can go to the shop to upgrade you pieces, sacrifice your pieces, and even sacrifice your pieces to summon a new one. you can also reaange your starting setup. Each piece has a health bar so for example, 4 health so that is how many times that piece can be taken before they are destroyed. The chess board is smaller.
